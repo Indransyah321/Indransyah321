@@ -1,5 +1,6 @@
-https://drive.google.com/file/d/1IoFn6tAlF0EGK-B4z6P3NM2wAhwiGUpb/view?usp=sharing
-https://drive.google.com/file/d/1IlNk-EED0biJn0soCeQh0CkGfcNcnJ0f/view?usp=share_link
+![Screenshot_20231019-193139](https://github.com/pi-hole/pi-hole/assets/148411970/6920c9d2-dd75-4f39-88e0-6422462e8993)
+![Screenshot_20231019-193301](https://user-images.githubusercontent.com/148411970/276647687-ef27f098-43bc-4de4-9834-891599eb4c1a.jpg)
+
 
 # PI-HOLE
 PI-HOLE adalah engine yang menggunakan DNS sinkhole untuk bisa memblokir iklan dari konten yang tidak di inginkan tanpa perlu menginstall client-side software apapun.
