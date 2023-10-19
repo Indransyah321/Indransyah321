@@ -1,3 +1,6 @@
+https://drive.google.com/file/d/1IoFn6tAlF0EGK-B4z6P3NM2wAhwiGUpb/view?usp=sharing
+https://drive.google.com/file/d/1IlNk-EED0biJn0soCeQh0CkGfcNcnJ0f/view?usp=share_link
+
 # PI-HOLE
 PI-HOLE adalah engine yang menggunakan DNS sinkhole untuk bisa memblokir iklan dari konten yang tidak di inginkan tanpa perlu menginstall client-side software apapun.
 dengan DNS sinkhole ini ataupun bisa di sebut blackhole DNS berfungsi untuk konfigurasi alamat menjadi yang tidak dapat di rutekan sehingga menjadi gagal untuk mengakses
